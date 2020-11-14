@@ -14,7 +14,8 @@ def add_words(generator, wordfile):
 
 def main():
     if len(sys.argv) == 1:
-        print("Supply an argument to select a word source.")
+        print("Supply an argument to select a word source:")
+        print("eowl | dwyl | mielie | names1 | names2 | nouns")
         sys.exit()
 
     gen = wordgen.WordGenerator()
