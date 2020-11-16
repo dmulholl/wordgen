@@ -1,6 +1,6 @@
 # Sample Word Lists
 
-* [ewol.txt](https://diginoodles.com/projects/eowl)
+* [eowl.txt](https://diginoodles.com/projects/eowl)
 * [dwyl.txt](https://github.com/dwyl/english-words)
 * [mieliestronk.txt](http://www.mieliestronk.com/wordlist.html)
 * [names-1.txt](https://www.outpost9.com/files/WordLists.html)
